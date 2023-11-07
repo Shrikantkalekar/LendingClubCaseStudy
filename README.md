@@ -1,5 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This proejct is a case study using EDA analysis for Lending financial company lending verious types of loans and identify
+  probable defaulters to avoid finalcial loss to the company.
 
 
 ## Table of Contents
@@ -11,10 +12,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This project is an academic case study project for lending club.
+- To analyse the borrowers probability of defaulter.
+- Identify the risky customer to avoid financial loss to the lending company.
+- Loan dataset of borrowers from 2007 to 2011 is used to do this analysis.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -28,21 +29,23 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- numpy - version 1.0
+- pandas - version 2.0
+- seaborn - version 3.0
+- matplotli.pyplot - version 3.0
+- warnings - version 3.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project is outcome of the case study as part of upgrad curriculam...
+- Referenced all the upgrade live contents..
+- This project was based on [this tutorial]([https://www.example.com](https://learn.upgrad.com/course/4705)).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@raghupathi] & [@shrikantkalekar] - feel free to contact me!
 
 
 <!-- Optional -->

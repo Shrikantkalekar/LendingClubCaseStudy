@@ -20,10 +20,21 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Through this EDA, we have gained valuable insights into the lending patterns and borrower characteristics. These insights can inform loan approval strategies, risk assessment, and investment decisions for Lending Club.
+
+- We have identified when there is higher rate of interested and loan amount is high there are more number of defaulters.
+- If annual income is less the chances of defaulter is higher.
+- When monthly debit ratio increases the defaulter rate increase.
+- F&G Grades(A to G) have more number of defaulters.
+- If Loan term if more there are more chances of getting the defaulter.
+- Public record is direct indicator for finding defaulters.
+- Small Business loan borower has more chances of being defaulter.
+- Borrower from State NE has more defaulters so need to be causation while lending them money.
+- Other than above individuals we should focus on others so that we can get good business
+
+
+
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
